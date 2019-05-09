@@ -1,0 +1,4 @@
+name = Debug Nodequeue
+description = Debug Nodequeue.
+core = 7.x
+php = 5
